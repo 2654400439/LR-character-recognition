@@ -1,0 +1,636 @@
+[1/10000] Train loss: 49.23699, Valid loss: 29.43889, Elapsed_time: 10.00867
+Current_accuracy : 0.000, Current_norm_ED  : 0.01
+Best_accuracy    : 0.000, Best_norm_ED     : 0.01
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:1qUJK9qkiSI7L1        | 000000                    | 0.0000	False
+@#&:FVRepDeRB0            | 00                        | 0.0000	False
+@#&:fqsoKmPG7RVw          | 0                         | 0.0000	False
+@#&:aVQC261Q              | 00000                     | 0.0000	False
+@#&:BlY9ZFKskFNvIr5       | 000000                    | 0.0000	False
+--------------------------------------------------------------------------------
+[200/10000] Train loss: 3.83930, Valid loss: 3.16177, Elapsed_time: 229.01193
+Current_accuracy : 0.000, Current_norm_ED  : 0.27
+Best_accuracy    : 0.000, Best_norm_ED     : 0.27
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:J2ZzfkMww             | @#&:                      | 0.0001	False
+@#&:i05TtJ5VFHMf          | @#&:                      | 0.0002	False
+@#&:Njsc37URTi            | @#&:                      | 0.0002	False
+@#&:h5HEhiyqzgEw          | @#&:                      | 0.0005	False
+@#&:zCvGNEgA5xuiL7        | @#&:                      | 0.0001	False
+--------------------------------------------------------------------------------
+[400/10000] Train loss: 1.95036, Valid loss: 0.67760, Elapsed_time: 441.19694
+Current_accuracy : 15.481, Current_norm_ED  : 0.82
+Best_accuracy    : 15.481, Best_norm_ED     : 0.82
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:BpdClWRFz37Y          | @#&:                      | 0.0000	False
+@#&:pwY7QtwgRmil3Z        | @#&:pY7QtgR3Zj            | 0.0000	False
+@#&:F0YTmMzFnR2j8         | @#&:F0YTMzFnR2j8          | 0.0004	False
+@#&:vxSPuS2SAGg           | @#&:                      | 0.0000	False
+@#&:xFoyXaSyh             | @#&:xFoXeSh               | 0.0001	False
+--------------------------------------------------------------------------------
+[1/10000] Train loss: 49.23699, Valid loss: 29.43889, Elapsed_time: 10.02185
+Current_accuracy : 0.000, Current_norm_ED  : 0.01
+Best_accuracy    : 0.000, Best_norm_ED     : 0.01
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:1qUJK9qkiSI7L1        | 000000                    | 0.0000	False
+@#&:FVRepDeRB0            | 00                        | 0.0000	False
+@#&:fqsoKmPG7RVw          | 0                         | 0.0000	False
+@#&:aVQC261Q              | 00000                     | 0.0000	False
+@#&:BlY9ZFKskFNvIr5       | 000000                    | 0.0000	False
+--------------------------------------------------------------------------------
+[200/10000] Train loss: 3.80346, Valid loss: 3.18395, Elapsed_time: 232.37349
+Current_accuracy : 0.000, Current_norm_ED  : 0.27
+Best_accuracy    : 0.000, Best_norm_ED     : 0.27
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:J2ZzfkMww             | @#&:                      | 0.0000	False
+@#&:i05TtJ5VFHMf          | @#&:                      | 0.0000	False
+@#&:Njsc37URTi            | @#&:                      | 0.0000	False
+@#&:h5HEhiyqzgEw          | @#&:                      | 0.0000	False
+@#&:zCvGNEgA5xuiL7        | @#&:                      | 0.0000	False
+--------------------------------------------------------------------------------
+[400/10000] Train loss: 1.96767, Valid loss: 0.67830, Elapsed_time: 446.95842
+Current_accuracy : 17.498, Current_norm_ED  : 0.82
+Best_accuracy    : 17.498, Best_norm_ED     : 0.82
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:BpdClWRFz37Y          | @#&:                      | 0.0000	False
+@#&:pwY7QtwgRmil3Z        | @#&:pY7QtgR32j            | 0.0000	False
+@#&:F0YTmMzFnR2j8         | @#&:F0YTmMzFmR2j8         | 0.0004	False
+@#&:vxSPuS2SAGg           | @#&:                      | 0.0001	False
+@#&:xFoyXaSyh             | @#&:xFoXeSyn              | 0.0003	False
+--------------------------------------------------------------------------------
+[600/10000] Train loss: 0.43714, Valid loss: 0.43368, Elapsed_time: 676.19479
+Current_accuracy : 41.716, Current_norm_ED  : 0.89
+Best_accuracy    : 41.716, Best_norm_ED     : 0.89
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:3tYXxqaPjel7ShZ       | @#&:3tYXxqaPjel7ShZ       | 0.0375	True
+@#&:4LTf04Rm7             | @#&:4LTf04Rm7             | 0.0054	True
+@#&:dbt0O4PzqV4FP         | @#&:dbt0Q4PzqV4FP         | 0.0476	False
+@#&:4SG6gzmlFNb           | @#&:48G8mFNb              | 0.0000	False
+@#&:oKGl7wwgQTWwDn        | @#&:oKGI7wwgQTwDn         | 0.0004	False
+--------------------------------------------------------------------------------
+[800/10000] Train loss: 0.34561, Valid loss: 0.37346, Elapsed_time: 910.80705
+Current_accuracy : 48.598, Current_norm_ED  : 0.91
+Best_accuracy    : 48.598, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:VmLlbXUr              | @#&:VmLIbXUr              | 0.0214	False
+@#&:EOQ2n4D23             | @#&:EOQ2n4D23             | 0.0243	True
+@#&:dmjJvfQBPma3Z7o       | @#&:dmjJyfQBPma3Z7o       | 0.0235	False
+@#&:Oa7ZoWZT2jl           | @#&:Qa7ZoWZT2j            | 0.0120	False
+@#&:b6S7QW719             | @#&:b6S7QW719             | 0.0249	True
+--------------------------------------------------------------------------------
+[1000/10000] Train loss: 0.30939, Valid loss: 0.35242, Elapsed_time: 1140.35905
+Current_accuracy : 52.786, Current_norm_ED  : 0.91
+Best_accuracy    : 52.786, Best_norm_ED     : 0.91
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:RT9BdIwqZ             | @#&:RT9BdIwqZ             | 0.0589	True
+@#&:Bjsqx6zAwZwUX         | @#&:Bjsqx6zAwZwUX         | 0.0725	True
+@#&:J5OOyb586fL           | @#&:J6OOv026L             | 0.0011	False
+@#&:uvGuo9suI7            | @#&:uGuo9suI7             | 0.0960	False
+@#&:MUrGsrdUhjN           | @#&:MUrGsrdUhjN           | 0.0717	True
+--------------------------------------------------------------------------------
+[1200/10000] Train loss: 0.28597, Valid loss: 0.32469, Elapsed_time: 1370.60422
+Current_accuracy : 57.738, Current_norm_ED  : 0.92
+Best_accuracy    : 57.738, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:xMcBpMAH7hOFi         | @#&:                      | 0.0000	False
+@#&:wPsL6BG41o6YH         | @#&:wPL6BG01o6Yn          | 0.0002	False
+@#&:TFKdmrt2wvE           | @#&:TFKdmrt2wvE           | 0.0264	True
+@#&:p1xfflLpNPcc          | @#&:p1xffLpNPJ7           | 0.0421	False
+@#&:0cLZ96Xm4MO7          | @#&:0cLZ96Xm4MO7          | 0.0212	True
+--------------------------------------------------------------------------------
+[1400/10000] Train loss: 0.26478, Valid loss: 0.31633, Elapsed_time: 1600.64906
+Current_accuracy : 56.417, Current_norm_ED  : 0.92
+Best_accuracy    : 57.738, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:se0yqstoyoFn          | @#&:se0vcstovcFn          | 0.0207	False
+@#&:HQjai1rL              | @#&:HQjai1rL              | 0.0312	True
+@#&:A1JpW503rfid66        | @#&:A1JpW503rfid66        | 0.1481	True
+@#&:W6X1S8Ah894           | @#&:W6X1S8Ah894           | 0.2857	True
+@#&:a0eoJYMKa             | @#&:a0eoJYMKa             | 0.0633	True
+--------------------------------------------------------------------------------
+[1600/10000] Train loss: 0.26051, Valid loss: 0.29707, Elapsed_time: 1832.42976
+Current_accuracy : 59.421, Current_norm_ED  : 0.92
+Best_accuracy    : 59.421, Best_norm_ED     : 0.92
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:DIqPBa6DqoX           | @#&:DIqPBa6DqoX           | 0.0455	True
+@#&:HEoc5Y17BvidFWw       | @#&:HEoc5Y17BvidFWw       | 0.0607	True
+@#&:BFDILInYzncPfo3       | @#&:BFDILlnYzncPfo3       | 0.0384	False
+@#&:95s7S10l              | @#&:95s7S10I              | 0.2260	False
+@#&:fekv2XKWj             | @#&:fekv2XKW              | 0.0311	False
+--------------------------------------------------------------------------------
+[1800/10000] Train loss: 0.24382, Valid loss: 0.29004, Elapsed_time: 2061.46693
+Current_accuracy : 64.804, Current_norm_ED  : 0.93
+Best_accuracy    : 64.804, Best_norm_ED     : 0.93
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:riByoYAj              | @#&:                      | 0.0000	False
+@#&:7ag3JmCW              | @#&:7ag3JmCW              | 0.0895	True
+@#&:zyEvLv6tJf79h9s       | @#&:zyEvLv6tJf79h9s       | 0.0806	True
+@#&:6SqaYe1RAO            | @#&:6SqsJ                 | 0.0003	False
+@#&:CW6pjw5OIQV           | @#&:CW6pjw5OIQV           | 0.1990	True
+--------------------------------------------------------------------------------
+[2000/10000] Train loss: 0.24266, Valid loss: 0.27389, Elapsed_time: 2292.45531
+Current_accuracy : 67.274, Current_norm_ED  : 0.93
+Best_accuracy    : 67.274, Best_norm_ED     : 0.93
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:z9zKlUL4De            | @#&:z9zKlUL4De            | 0.0955	True
+@#&:cBbDv3dW              | @#&:cBbDv3dW              | 0.1046	True
+@#&:MYvpbxAsOt            | @#&:MYvpbxAsOt            | 0.2400	True
+@#&:cV4Q8qkURx4eR         | @#&:cV4Q8qkURx4eR         | 0.3653	True
+@#&:9sX9l7BJFnC           | @#&:9sX9l7BJFnC           | 0.1483	True
+--------------------------------------------------------------------------------
+[2200/10000] Train loss: 0.22654, Valid loss: 0.27963, Elapsed_time: 2522.62513
+Current_accuracy : 65.246, Current_norm_ED  : 0.93
+Best_accuracy    : 67.274, Best_norm_ED     : 0.93
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:Jbmkhqdnukouew7       | @#&:Jbmknqdnukouew7       | 0.1193	False
+@#&:IsEyCnOpriRL6HV       | @#&:IsEyCnOprnRL6HV       | 0.2052	False
+@#&:5uDZoqVu              | @#&:5uDZoqVu              | 0.2153	True
+@#&:1i1QPLUbFL3tRiJ       | @#&:1i1QPLUbFL3tRiJ       | 0.1422	True
+@#&:YmfHBvvhygT           | @#&:YmfHBvvhygT           | 0.2045	True
+--------------------------------------------------------------------------------
+[2400/10000] Train loss: 0.23055, Valid loss: 0.27453, Elapsed_time: 2753.25761
+Current_accuracy : 63.327, Current_norm_ED  : 0.93
+Best_accuracy    : 67.274, Best_norm_ED     : 0.93
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:Ese3w03Jx7zAT4B       | @#&:Ese3w03Jx7zAT4B       | 0.0472	True
+@#&:69Y2tuIYuC79          | @#&:69Y2tuIYuC79          | 0.1926	True
+@#&:DJl1xUuInNl           | @#&:DJi1xUulnNl           | 0.0203	False
+@#&:gTF68iMIrj7           | @#&:gTF68iMIrj7           | 0.0726	True
+@#&:Pqgc3ajQK6vdFI        | @#&:Pqgc3ajQK6vdFl        | 0.1866	False
+--------------------------------------------------------------------------------
+[2600/10000] Train loss: 0.23000, Valid loss: 0.26815, Elapsed_time: 2984.39576
+Current_accuracy : 67.974, Current_norm_ED  : 0.93
+Best_accuracy    : 67.974, Best_norm_ED     : 0.93
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:LPuYy9Dz7ZsxE         | @#&:LPuYy9Dz7ZsxE         | 0.1372	True
+@#&:yNTuWLLo8g2rFBY       | @#&:yNTuWLLo9g2rFBY       | 0.1230	False
+@#&:bC6B6iMWS2iuLa        | @#&:                      | 0.0001	False
+@#&:2ebGppBwsd5           | @#&:2ebGppBwsd5           | 0.2408	True
+@#&:bdRQmoflLVHRIs        | @#&:                      | 0.0000	False
+--------------------------------------------------------------------------------
+[2800/10000] Train loss: 0.22097, Valid loss: 0.26564, Elapsed_time: 3213.88347
+Current_accuracy : 69.307, Current_norm_ED  : 0.93
+Best_accuracy    : 69.307, Best_norm_ED     : 0.93
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:JF7dVr6A08Nkb         | @#&:JF7dVr6A08Nkb         | 0.2033	True
+@#&:a54LcJtww             | @#&:a54LcJtww             | 0.1191	True
+@#&:s65jswuEsj            | @#&:s65jswuEsj            | 0.1293	True
+@#&:JmXW3N6S3HQ           | @#&:JmXW3N6S3HQ           | 0.5989	True
+@#&:a3RoebEWTD            | @#&:a3RoebEWTD            | 0.0966	True
+--------------------------------------------------------------------------------
+[3000/10000] Train loss: 0.22273, Valid loss: 0.26058, Elapsed_time: 3443.53127
+Current_accuracy : 70.416, Current_norm_ED  : 0.94
+Best_accuracy    : 70.416, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:2e1X8UuqU9            | @#&:2o1X8UuqU9            | 0.4342	False
+@#&:Wai3FmKa              | @#&:Wai3FmKa              | 0.0606	True
+@#&:xMILVPqR              | @#&:xMlLVPqR              | 0.2126	False
+@#&:k9Xnv2h8KOA           | @#&:k9Xnv2h8KOA           | 0.2806	True
+@#&:euBb5TY244g2Mc        | @#&:euBb5TY244g2Mc        | 0.2301	True
+--------------------------------------------------------------------------------
+[3200/10000] Train loss: 0.21414, Valid loss: 0.31815, Elapsed_time: 3674.43230
+Current_accuracy : 58.054, Current_norm_ED  : 0.92
+Best_accuracy    : 70.416, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:aOnpqigvNYEk          | @#&:aOnpqigyNYEk          | 0.0919	False
+@#&:0RdJhwOuki            | @#&:0RdJByOuk             | 0.0120	False
+@#&:BTmIhhmk2DP2          | @#&:BTmIhhmk2DP2          | 0.2978	True
+@#&:WYgZDyfUbCj           | @#&:WYgZDyfUbC            | 0.1802	False
+@#&:Dw0xk07cO9vF25        | @#&:Dw0xk07cO9yF25        | 0.0693	False
+--------------------------------------------------------------------------------
+[3400/10000] Train loss: 0.21530, Valid loss: 0.27483, Elapsed_time: 3904.99371
+Current_accuracy : 65.981, Current_norm_ED  : 0.93
+Best_accuracy    : 70.416, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:6pAJryO4              | @#&:6pAJryO4              | 0.0322	True
+@#&:BCueK546OD            | @#&:BCueK546OD            | 0.1014	True
+@#&:D0CdRIv7B             | @#&:D0CdRlv7B             | 0.1234	False
+@#&:i8sARi28Q3Zbi         | @#&:i8sARi28Q3Zbi         | 0.1967	True
+@#&:TGRUK43M              | @#&:TGRUK43M              | 0.0586	True
+--------------------------------------------------------------------------------
+[3600/10000] Train loss: 0.20856, Valid loss: 0.25476, Elapsed_time: 4133.21141
+Current_accuracy : 70.755, Current_norm_ED  : 0.94
+Best_accuracy    : 70.755, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:oUeRbZKUz             | @#&:oUeRbZKUz             | 0.4034	True
+@#&:FXuvW9iX              | @#&:FXuvW9K               | 0.1075	False
+@#&:hWElr2G67F2           | @#&:hWElr2G67F2           | 0.1354	True
+@#&:z6ELVNIu0BxaB         | @#&:z6ELVNlu0BxaB         | 0.0928	False
+@#&:x7LqlCrtJbx           | @#&:x7LqlCrtJbx           | 0.0261	True
+--------------------------------------------------------------------------------
+[3800/10000] Train loss: 0.20958, Valid loss: 0.24974, Elapsed_time: 4363.22755
+Current_accuracy : 72.662, Current_norm_ED  : 0.94
+Best_accuracy    : 72.662, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:azJGjO810S46          | @#&:1uYx                  | 0.0000	False
+@#&:zlvhDBjAILK           | @#&:zvhDBjAlLK            | 0.0318	False
+@#&:vtmheYzO9j            | @#&:vtmheYzO9             | 0.0810	False
+@#&:qqVuWby3tSGS          | @#&:qqVuWby3tSGS          | 0.1081	True
+@#&:uln4DpZu              | @#&:uln4DpZu              | 0.4087	True
+--------------------------------------------------------------------------------
+[4000/10000] Train loss: 0.20605, Valid loss: 0.26040, Elapsed_time: 4594.95028
+Current_accuracy : 71.530, Current_norm_ED  : 0.94
+Best_accuracy    : 72.662, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:Ol0KMeBbu2            | @#&:Ol0KMeBbu2            | 0.1330	True
+@#&:L4p5maYUlW            | @#&:L4p5maYUlW            | 0.1763	True
+@#&:fSSAmC8q2             | @#&:fSSAmC8q2             | 0.5421	True
+@#&:THEa7r87ZVBkB         | @#&:THEa7r87ZVBkB         | 0.5797	True
+@#&:gmp9HI3J3vr           | @#&:gmp9Hl3J3vr           | 0.1001	False
+--------------------------------------------------------------------------------
+[4200/10000] Train loss: 0.20366, Valid loss: 0.25541, Elapsed_time: 4828.71331
+Current_accuracy : 72.415, Current_norm_ED  : 0.94
+Best_accuracy    : 72.662, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:mpJcoKwdrOQ           | @#&:                      | 0.0000	False
+@#&:SWpCmRA2              | @#&:SWpCmRA2              | 0.3119	True
+@#&:SijoTwf4T9DKI         | @#&:SijoTwf4T9DKI         | 0.1141	True
+@#&:wG5GI6Na              | @#&:wG5GI6Na              | 0.1586	True
+@#&:DZY6onESLXC           | @#&:DZY6onESLXC           | 0.4211	True
+--------------------------------------------------------------------------------
+[4400/10000] Train loss: 0.20680, Valid loss: 0.24681, Elapsed_time: 5058.52836
+Current_accuracy : 73.811, Current_norm_ED  : 0.94
+Best_accuracy    : 73.811, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:vMt3tcEi8             | @#&:vMt3tcEi8             | 0.1759	True
+@#&:c2m9EwXQGHy6          | @#&:c2m9EwXQGHy6          | 0.3202	True
+@#&:TsxodctuUHC           | @#&:TsxodctuUHC           | 0.3347	True
+@#&:2wg72A9qBN            | @#&:2wg72A9qBN            | 0.1349	True
+@#&:MwmIimt7QonR6C2       | @#&:MwmImt7QonR6C2        | 0.0509	False
+--------------------------------------------------------------------------------
+[4600/10000] Train loss: 0.19552, Valid loss: 0.24862, Elapsed_time: 5289.75935
+Current_accuracy : 73.478, Current_norm_ED  : 0.94
+Best_accuracy    : 73.811, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:Zgp8K0gWEmMVy         | @#&:Zgp8K0gWEmMVy         | 0.2654	True
+@#&:rc4BcLQC              | @#&:rc4BcLQC              | 0.1311	True
+@#&:DTKPatfjuUAW          | @#&:DTKPatfjuUAW          | 0.0473	True
+@#&:V9tzqzz18BYmPf        | @#&:V9tzqzz18BYmPf        | 0.2805	True
+@#&:81DjeSmN              | @#&:81DjeSmN              | 0.1139	True
+--------------------------------------------------------------------------------
+[4800/10000] Train loss: 0.19796, Valid loss: 0.24979, Elapsed_time: 5518.06030
+Current_accuracy : 73.753, Current_norm_ED  : 0.94
+Best_accuracy    : 73.811, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:oNZOa74fDaqZecd       | @#&:oNZOa74fDaqZecd       | 0.2043	True
+@#&:oixm7lnGOQBqGs        | @#&:olyn                  | 0.0001	False
+@#&:UmQJVKWOUJkm          | @#&:UmQJVKWOUJkm          | 0.4860	True
+@#&:SruBgKULlW            | @#&:SruBgKULIW            | 0.1934	False
+@#&:W9dipVOT8MX           | @#&:W9dipVOT8MX           | 0.1320	True
+--------------------------------------------------------------------------------
+[5000/10000] Train loss: 0.20419, Valid loss: 0.25049, Elapsed_time: 5747.67848
+Current_accuracy : 72.455, Current_norm_ED  : 0.94
+Best_accuracy    : 73.811, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:roSLso2Kvs            | @#&:roSLso2Kvs            | 0.6978	True
+@#&:slrXTFX0A             | @#&:slrXTFX0A             | 0.1731	True
+@#&:4j9b4JClvnr           | @#&:                      | 0.0001	False
+@#&:rucr7g5qkahAP5X       | @#&:rucr7g5qkahAP5X       | 0.2745	True
+@#&:J5VGqMNuygGn          | @#&:J5VGqMNuygGn          | 0.1705	True
+--------------------------------------------------------------------------------
+[5200/10000] Train loss: 0.19740, Valid loss: 0.25464, Elapsed_time: 5982.02735
+Current_accuracy : 72.622, Current_norm_ED  : 0.94
+Best_accuracy    : 73.811, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:F6x3YLriWK2NkBR       | @#&:F6x3YLriWK2NkBR       | 0.0983	True
+@#&:iBGT8gEsEYQW          | @#&:iBGT8gEsEYQW          | 0.3183	True
+@#&:OQNfk6VxxqNT0D3       | @#&:OQNfk6VxxqNT0D3       | 0.1127	True
+@#&:4GV9PJFj3rzJ          | @#&:4GV9PJFj3rzJ          | 0.3840	True
+@#&:DPvdjefLxHwMrj        | @#&:DPvdjefLxHwMrj        | 0.0761	True
+--------------------------------------------------------------------------------
+[5400/10000] Train loss: 0.19266, Valid loss: 0.24945, Elapsed_time: 6211.93770
+Current_accuracy : 72.811, Current_norm_ED  : 0.94
+Best_accuracy    : 73.811, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:E0rNK3K14             | @#&:E0rNK3K14             | 0.0170	True
+@#&:eiSUB8mU              | @#&:eiSUB8mU              | 0.2932	True
+@#&:gTBLssT9Rz            | @#&:gTBLssT9R2            | 0.2336	False
+@#&:qsPM91Wg              | @#&:qsPM91Wg              | 0.1422	True
+@#&:vHlYDOdq82eVpw        | @#&:vHlYDOdq82eVpw        | 0.3175	True
+--------------------------------------------------------------------------------
+[5600/10000] Train loss: 0.19275, Valid loss: 0.24806, Elapsed_time: 6442.73786
+Current_accuracy : 74.138, Current_norm_ED  : 0.94
+Best_accuracy    : 74.138, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:wKlfOYAWJXIB          | @#&:NfOYAWJXIB            | 0.0456	False
+@#&:Qxn29JKF1mpk          | @#&:Qxn29JKF1mpk          | 0.1702	True
+@#&:bLXhf6EW3b9WJ         | @#&:bLXhf6EW3b9WJ         | 0.3084	True
+@#&:jkeWMs73A             | @#&:                      | 0.0000	False
+@#&:k5GfLUORZsZoV         | @#&:k5GfLUORZsZoV         | 0.2031	True
+--------------------------------------------------------------------------------
+[5800/10000] Train loss: 0.19142, Valid loss: 0.25260, Elapsed_time: 6674.53289
+Current_accuracy : 72.903, Current_norm_ED  : 0.94
+Best_accuracy    : 74.138, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:QOQpTnAsU9            | @#&:QOQpTnAsU9            | 0.2748	True
+@#&:ON26cnQPYDpr          | @#&:ON26cnQPYDpr          | 0.3100	True
+@#&:kYI1o4Znioc9          | @#&:kYI1c4Znloc9          | 0.0243	False
+@#&:5NJTV6wtv             | @#&:5NJTV6wtv             | 0.1071	True
+@#&:Mc68tTY8SJZJ          | @#&:Mc68tTY8SJZJ          | 0.1786	True
+--------------------------------------------------------------------------------
+[6000/10000] Train loss: 0.19025, Valid loss: 0.24844, Elapsed_time: 6904.72570
+Current_accuracy : 73.736, Current_norm_ED  : 0.94
+Best_accuracy    : 74.138, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:iTuwk0JKjG            | @#&:iTuwk0JKjG            | 0.1161	True
+@#&:PWJnY5vV              | @#&:PWJnY5vV              | 0.2689	True
+@#&:17ej1e4XUH5Xbt1       | @#&:17ej1e4XUH5Xbt1       | 0.2622	True
+@#&:ny8SVqqMU             | @#&:Ey8SVdqMU             | 0.0239	False
+@#&:Ho8J8j5v              | @#&:Ho8J8j5v              | 0.5088	True
+--------------------------------------------------------------------------------
+[6200/10000] Train loss: 0.19252, Valid loss: 0.24687, Elapsed_time: 7135.39780
+Current_accuracy : 74.764, Current_norm_ED  : 0.94
+Best_accuracy    : 74.764, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:zTv0gJaiu             | @#&:zTv0gJaiu             | 0.2088	True
+@#&:XkedqWlxlYG5yDu       | @#&:XkedqWlxlYG5yDu       | 0.1379	True
+@#&:N28PJJd3K8P5          | @#&:N28PJJd3K8P5          | 0.1297	True
+@#&:RnoMpprcJw            | @#&:RnoMpprcJw            | 0.3273	True
+@#&:gLBTqHIUszv           | @#&:gLBTqHIUszv           | 0.1714	True
+--------------------------------------------------------------------------------
+[6400/10000] Train loss: 0.19003, Valid loss: 0.24819, Elapsed_time: 7370.38216
+Current_accuracy : 74.144, Current_norm_ED  : 0.94
+Best_accuracy    : 74.764, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:4PAdEg0HwHjl          | @#&:4PAdEg0HwIHH          | 0.0209	False
+@#&:NFrSSJcU              | @#&:NFrSSJcU              | 0.0494	True
+@#&:rFcL570yaekb          | @#&:rFcL570vaekb          | 0.2355	False
+@#&:iW1bxhCoL9r           | @#&:iW1bxhCoL9r           | 0.1398	True
+@#&:ccGfH6b36GG           | @#&:ccGfH6b36GG           | 0.7813	True
+--------------------------------------------------------------------------------
+[6600/10000] Train loss: 0.18233, Valid loss: 0.24763, Elapsed_time: 7602.05567
+Current_accuracy : 75.402, Current_norm_ED  : 0.94
+Best_accuracy    : 75.402, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:cYo2csEoGjJn7         | @#&:                      | 0.0000	False
+@#&:qVgRL2dF              | @#&:qVgRL2dF              | 0.4129	True
+@#&:8zJYhcxMnPH8          | @#&:8zJYhcxMnPH8          | 0.2769	True
+@#&:OtFcL9IxI             | @#&:OtFcL9Ix              | 0.1501	False
+@#&:RdWJIXkQ5oKd949       | @#&:RdWJIXkQ5oKd949       | 0.2547	True
+--------------------------------------------------------------------------------
+[6800/10000] Train loss: 0.18921, Valid loss: 0.24397, Elapsed_time: 7832.25035
+Current_accuracy : 75.643, Current_norm_ED  : 0.94
+Best_accuracy    : 75.643, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:yPP3UuWEOAN61M        | @#&:yPP3UuWEOAN61M        | 0.3074	True
+@#&:UubF3X02tCpyccq       | @#&:UubF3X02tCpyccq       | 0.1997	True
+@#&:fQB6JqlAFW3c8NA       | @#&:fNQulJcQuV18NA        | 0.0000	False
+@#&:gS0rKB4sG7bXk8m       | @#&:gS0rKB4sG7bXk8m       | 0.1813	True
+@#&:SdoH8jCT              | @#&:SdoH8jCT              | 0.8179	True
+--------------------------------------------------------------------------------
+[7000/10000] Train loss: 0.18708, Valid loss: 0.24400, Elapsed_time: 8062.82514
+Current_accuracy : 75.396, Current_norm_ED  : 0.94
+Best_accuracy    : 75.643, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:zGcsnZQOn             | @#&:zGcsnZQOn             | 0.4576	True
+@#&:ZOHWFquL              | @#&:ZOHWFquL              | 0.4963	True
+@#&:SKIXleJrz3A           | @#&:SKIXleJrz3A           | 0.1390	True
+@#&:ZmoQjuhcYY            | @#&:ZImUj0v               | 0.0057	False
+@#&:QTyYQX6mQIbfPaE       | @#&:                      | 0.0000	False
+--------------------------------------------------------------------------------
+[7200/10000] Train loss: 0.17276, Valid loss: 0.24783, Elapsed_time: 8291.88227
+Current_accuracy : 74.202, Current_norm_ED  : 0.94
+Best_accuracy    : 75.643, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:KwzmfNTnf             | @#&:KwzmfNTnf             | 0.2479	True
+@#&:ygdxhEEI              | @#&:ygdxhEE               | 0.2051	False
+@#&:ITDmWPazpjldg         | @#&:ITDmWPgbjldg          | 0.0033	False
+@#&:AH9sl0Nuf             | @#&:AH9sl0Nuf             | 0.2886	True
+@#&:fw1lfjGvh8fAfjC       | @#&:fw1lfjGvh8fAfjC       | 0.2377	True
+--------------------------------------------------------------------------------
+[7400/10000] Train loss: 0.18630, Valid loss: 0.24627, Elapsed_time: 8520.70718
+Current_accuracy : 75.327, Current_norm_ED  : 0.94
+Best_accuracy    : 75.643, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:fwtaFHsCLiA2Tc        | @#&:fwtaFHsCLiA2Tc        | 0.2398	True
+@#&:2lfZQItkVPAEV         | @#&:ifZQItkVPAFV          | 0.0264	False
+@#&:zGcsnZQOn             | @#&:zGcsnZQOn             | 0.5385	True
+@#&:4xx3wj8lOVw           | @#&:4xx3wj8lOVw           | 0.1980	True
+@#&:r9FWBCt80             | @#&:r9FWBCt80             | 0.0749	True
+--------------------------------------------------------------------------------
+[7600/10000] Train loss: 0.18971, Valid loss: 0.24478, Elapsed_time: 8748.24352
+Current_accuracy : 76.166, Current_norm_ED  : 0.94
+Best_accuracy    : 76.166, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:nrC4zzmHcc            | @#&:nrC4zzmHcc            | 0.6359	True
+@#&:fepOvoGV9Ovipnm       | @#&:fepOvoGV9Ovipnm       | 0.3423	True
+@#&:tDlUdSOH8xtjr         | @#&:tDIUdSOH8xtjr         | 0.1225	False
+@#&:WLJxIorI4hvL          | @#&:WLJxIorI4hvL          | 0.0418	True
+@#&:eQ0By9LpZh            | @#&:eQ0By9LpZh            | 0.2570	True
+--------------------------------------------------------------------------------
+[8000/10000] Train loss: 0.17788, Valid loss: 0.24693, Elapsed_time: 9210.29360
+Current_accuracy : 76.229, Current_norm_ED  : 0.94
+Best_accuracy    : 76.379, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:qjOI8f4Cj4            | @#&:qjOI8f4Cj4            | 0.3474	True
+@#&:gebuhaFdou9bgT4       | @#&:gebuhaFdou5bgT4       | 0.0614	False
+@#&:Z81CXMeH9IZM          | @#&:Z81CXMeH9lZM          | 0.1438	False
+@#&:HtppivaO              | @#&:r                     | 0.0000	False
+@#&:CI559LbHRgvw          | @#&:CI559LbHRgvw          | 0.5059	True
+--------------------------------------------------------------------------------
+[8200/10000] Train loss: 0.18186, Valid loss: 0.25683, Elapsed_time: 9438.30766
+Current_accuracy : 75.040, Current_norm_ED  : 0.94
+Best_accuracy    : 76.379, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:pqwWd8xSKsBIx8        | @#&:pqdyBB                | 0.0000	False
+@#&:tzzvZ3Es              | @#&:tzzvZ3Es              | 0.1987	True
+@#&:XgupHgFOVq9IrEg       | @#&:XgupHgFOVq9IrEg       | 0.4086	True
+@#&:GkVrpavFf             | @#&:GkVrpavFf             | 0.1370	True
+@#&:p4BTlz7D              | @#&:p4BTIz7D              | 0.1518	False
+--------------------------------------------------------------------------------
+[8400/10000] Train loss: 0.17815, Valid loss: 0.24683, Elapsed_time: 9667.94912
+Current_accuracy : 76.338, Current_norm_ED  : 0.94
+Best_accuracy    : 76.379, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:7MVR2naZg             | @#&:7MVR2naZg             | 0.2242	True
+@#&:cCfZ81DODaA           | @#&:cCfZ81DODaA           | 0.0707	True
+@#&:pIcM7YbnRbkGUxB       | @#&:pIcM7YbnRbkGUxB       | 0.3551	True
+@#&:ofNrROjk              | @#&:ofNrROjk              | 0.1900	True
+@#&:0jXwElUYbSyt          | @#&:0jXwElUYbSyt          | 0.3278	True
+--------------------------------------------------------------------------------
+[8600/10000] Train loss: 0.17538, Valid loss: 0.24915, Elapsed_time: 9902.93894
+Current_accuracy : 75.879, Current_norm_ED  : 0.94
+Best_accuracy    : 76.379, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:5q2dbigsnyS           | @#&:5q2dbigsnyS           | 0.2728	True
+@#&:COHjQPED              | @#&:COHjQPED              | 0.3300	True
+@#&:7b3Vrun4              | @#&:7b3Vrun4              | 0.1782	True
+@#&:ZLZ6t5J4lp            | @#&:ZLZ6t5J4Ip            | 0.0960	False
+@#&:Seu7oP9E              | @#&:Sau7oP9E              | 0.1787	False
+--------------------------------------------------------------------------------
+[8800/10000] Train loss: 0.17585, Valid loss: 0.24689, Elapsed_time: 10148.87523
+Current_accuracy : 76.005, Current_norm_ED  : 0.94
+Best_accuracy    : 76.379, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:8JD9AetbyK            | @#&:8JD9AetbK             | 0.0819	False
+@#&:OSrIPUp6a7VN          | @#&:OSrIPUp6a7VN          | 0.1204	True
+@#&:r2dDpkrbTpj3          | @#&:r2dDpkrbTpj3          | 0.3623	True
+@#&:hUpkfumL              | @#&:hUpkfumL              | 0.3400	True
+@#&:RQu2TKHb              | @#&:RQu2IiKHb             | 0.1267	False
+--------------------------------------------------------------------------------
+[9000/10000] Train loss: 0.17499, Valid loss: 0.25012, Elapsed_time: 10396.24501
+Current_accuracy : 76.448, Current_norm_ED  : 0.94
+Best_accuracy    : 76.448, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:aCHLYbwn              | @#&:aCHLYbwn              | 0.1545	True
+@#&:bp6nVTrfxtJ           | @#&:bp6nVTrfxtJ           | 0.1305	True
+@#&:DRT4xhqhuUP2zb        | @#&:DRT4xhqhuUP2zb        | 0.2550	True
+@#&:S6sl3F8o8i4K6kk       | @#&:S6sl3F8o8i4K6kk       | 0.2004	True
+@#&:DRWIpMA32l1           | @#&:DRWIpMA32l1           | 0.4319	True
+--------------------------------------------------------------------------------
+[9200/10000] Train loss: 0.17828, Valid loss: 0.24801, Elapsed_time: 10625.24570
+Current_accuracy : 76.522, Current_norm_ED  : 0.94
+Best_accuracy    : 76.522, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:sPvmkl77OdC4H93       | @#&:sPvmkl77OdC4H93       | 0.0951	True
+@#&:rTBNgk7A3U            | @#&:rTBNgk7A3U            | 0.1105	True
+@#&:IWUdrcJV0c            | @#&:IWUdrcJV0c            | 0.1561	True
+@#&:OImYfZj3V             | @#&:OImYfZj3V             | 0.0576	True
+@#&:z7q0MU3NpbJt          | @#&:z7q0MU3NpbJt          | 0.2234	True
+--------------------------------------------------------------------------------
+[9400/10000] Train loss: 0.17282, Valid loss: 0.25468, Elapsed_time: 10855.79691
+Current_accuracy : 76.310, Current_norm_ED  : 0.94
+Best_accuracy    : 76.522, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:rYQXYYrV              | @#&:rYQXYYrV              | 0.0219	True
+@#&:HUcNMBODHL            | @#&:HUcNMBODHL            | 0.4177	True
+@#&:60k37ZbO7IF           | @#&:60k37ZbO7IF           | 0.1452	True
+@#&:CzGlCqRJa4sD          | @#&:CzGlCqRJa4sD          | 0.4066	True
+@#&:MAQrKrVs3             | @#&:MAQrKrVs3             | 0.3070	True
+--------------------------------------------------------------------------------
+[9600/10000] Train loss: 0.17069, Valid loss: 0.25831, Elapsed_time: 11085.71129
+Current_accuracy : 75.098, Current_norm_ED  : 0.94
+Best_accuracy    : 76.522, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:pNg21xcP92            | @#&:pNg21xcP92            | 0.3449	True
+@#&:ygFbYqBF6G            | @#&:vFbYqBF6G             | 0.4082	False
+@#&:8IJOnweXL             | @#&:8lJOnweXL             | 0.2359	False
+@#&:6wbwrYEI              | @#&:6wbwrYEI              | 0.2558	True
+@#&:aJvcuoYyZsGTR         | @#&:aJvcuoYyZsGIiR        | 0.1408	False
+--------------------------------------------------------------------------------
+[9800/10000] Train loss: 0.17199, Valid loss: 0.25364, Elapsed_time: 11314.66174
+Current_accuracy : 76.384, Current_norm_ED  : 0.94
+Best_accuracy    : 76.522, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:U2ZCjmOOp             | @#&:U2ZCjmOOp             | 0.2465	True
+@#&:88HCF7cPn1zZ1         | @#&:88HCF7cPn1zZ1         | 0.1885	True
+@#&:2aPTUcfcq             | @#&:2aPTUcfcq             | 0.1218	True
+@#&:VFph3yxAol            | @#&:VFph3yxAo             | 0.2071	False
+@#&:RQu2TKHb              | @#&:RQu2lTiKHb            | 0.0132	False
+--------------------------------------------------------------------------------
+[10000/10000] Train loss: 0.17265, Valid loss: 0.25044, Elapsed_time: 11543.41221
+Current_accuracy : 76.838, Current_norm_ED  : 0.94
+Best_accuracy    : 76.838, Best_norm_ED     : 0.94
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+@#&:w4vMJPjHEVHCm5        | @#&:w4vMJPjHEVHCm5        | 0.2457	True
+@#&:ehUnr8u80Sl           | @#&:UO                    | 0.0000	False
+@#&:epNEytrVPhx4N         | @#&:epNEytrVPhx4N         | 0.3870	True
+@#&:MUREW6EYM             | @#&:MUREW6EYM             | 0.2629	True
+@#&:j9hW5wYebF            | @#&:j9hW5wYebF            | 0.1313	True
+--------------------------------------------------------------------------------

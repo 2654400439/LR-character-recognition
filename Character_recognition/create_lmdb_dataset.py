@@ -87,4 +87,4 @@ def createDataset(inputPath, gtFile, outputPath, checkValid=True):
 
 if __name__ == '__main__':
     print('here')
-    fire.Fire(createDataset("D:/github/deep-text-recognition-benchmark/data/","D:/github/deep-text-recognition-benchmark/data/gt.txt","D:/github/deep-text-recognition-benchmark/lmdb_val/"))
+    fire.Fire(createDataset('data_test/','data_test/gt.txt','lmdb_test/'))

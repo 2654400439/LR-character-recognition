@@ -137,6 +137,8 @@ def validation(model, criterion, evaluation_loader, converter, opt):
         preds_prob = F.softmax(preds, dim=2)
         preds_max_prob, _ = preds_prob.max(dim=2)
         confidence_score_list = []
+        flag = 0
+        f = open('result_test.txt','a')
         for gt, pred, pred_max_prob in zip(labels, preds_str, preds_max_prob):
             if 'Attn' in opt.Prediction:
                 gt = gt[:gt.find('[s]')]
@@ -155,7 +157,7 @@ def validation(model, criterion, evaluation_loader, converter, opt):
 
             if pred == gt:
                 n_correct += 1
-
+            f.write(gt+'\t'+pred+'\n')
             '''
             (old version) ICDAR2017 DOST Normalized Edit Distance https://rrc.cvc.uab.es/?ch=7&com=tasks
             "For each word we calculate the normalized edit distance to the length of the ground truth transcription."
@@ -180,7 +182,7 @@ def validation(model, criterion, evaluation_loader, converter, opt):
                 confidence_score = 0  # for empty pred case, when prune after "end of sentence" token ([s])
             confidence_score_list.append(confidence_score)
             # print(pred, gt, pred==gt, confidence_score)
-
+        f.close()
     accuracy = n_correct / float(length_of_data) * 100
     norm_ED = norm_ED / float(length_of_data)  # ICDAR2019 Normalized Edit Distance
 
@@ -253,7 +255,7 @@ if __name__ == '__main__':
     parser.add_argument('--imgH', type=int, default=24, help='the height of the input image')
     parser.add_argument('--imgW', type=int, default=200, help='the width of the input image')
     parser.add_argument('--rgb', action='store_true', help='use rgb input')
-    parser.add_argument('--character', type=str, default='0123456789abcdefghijklmnopqrstuvwxyz@#&:', help='character label')
+    parser.add_argument('--character', type=str, default='0123456789ABCDEFGHIJKLMNOPQISTUVWXYZabcdefghijklmnopqrstuvwxyz@#&:', help='character label')
     parser.add_argument('--sensitive', action='store_true', help='for sensitive character mode')
     parser.add_argument('--PAD', action='store_true', help='whether to keep ratio then pad for image resize')
     parser.add_argument('--data_filtering_off', action='store_true', help='for data_filtering_off mode')
